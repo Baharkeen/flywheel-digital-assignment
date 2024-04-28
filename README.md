@@ -1,8 +1,10 @@
-# Flywheel digital asssessment
-
 # Keyword Search Analysis
 
 This project analyzes search engine data to determine how many searches the top-ranked keyword (rank 1) receives across different search engines. The data set includes keywords identified by their `keyword_id` and their respective search rankings.
+
+You can find the assignment here: [the assignment](https://github.com/Baharkeen/flywheel-digital-assignment/blob/main/assignment.ipynb)
+
+ Data Source is: [the dataset](https://github.com/Baharkeen/flywheel-digital-assignment/blob/main/case_study_junior_ds.csv)
 
 ## About The Project
 
